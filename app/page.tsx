@@ -206,7 +206,7 @@ export default function Portfolio() {
     {
       id: "leeto",
       title: "Leet'O Tracker AI",
-      image: "/leeto.png",
+      image: "/leeto2.png",
       tech: "React, FastAPI, LangGraph, PostgreSQL, n8n",
       github: "https://github.com/samrat-chauhan24/leet-o-tracker",
       live: null,
